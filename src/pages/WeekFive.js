@@ -7,7 +7,7 @@ import Layout from '../components/layout'
 const WeekFive = () => (
     <Layout>
       <Link to="/">Home</Link>
-      <h1>Week 5</h1>
+      {/* <h1>Week 5</h1>
       <h3>Individual Accomplishments:</h3>
       <p></p>
       <p>The following lists my contributions to the project:</p>
@@ -43,7 +43,7 @@ const WeekFive = () => (
         </ul>
       </ul>
   
-      <h3>Detailed Analysis:</h3>
+      <h3>Detailed Analysis:</h3> */}
     </Layout>
   )
   
