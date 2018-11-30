@@ -14,7 +14,7 @@ const WeekThree = () => (
       <Link to="/">Home</Link>
       <h1>Week 3</h1>
       <h3>Individual Accomplishments:</h3>
-      <p>Preliminaries: The following <a href="https://www.youtube.com/watch?v=VU4BSOUdS2I&feature=youtu.be">link</a> will take you to my whiteboarding session on the queue with two stacks. Additionally, the graph below shows my contributions to the project.</p>
+      <p>Preliminaries: The following <a href="https://www.youtube.com/watch?v=dYDRNppv5Cs">link</a> will take you to my whiteboarding session on the queue with two stacks. Additionally, the graph below shows my contributions to the project.</p>
       <img src={graph} alt='graph' />
 
       <p>This week marked the halfway point for our project here at Lambda. This of course means that most of the work each of us had been working on for the past few weeks would be coming together. Although all four of us have specialized on various aspects of our website, we would all need to work together in order to allow our website to work seamlessly together. Therefore, most of our time this week was spent problem-solving as a team.</p>
