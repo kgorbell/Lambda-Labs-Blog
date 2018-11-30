@@ -7,12 +7,16 @@ import mapRecipes from '../images/Week3/map-recipes.png'
 import linkImg from '../images/Week3/link.png';
 import recipes from '../images/Week3/recipes.png';
 import recipe from '../images/Week3/recipe.png';
+import graph from '../images/Week3/graph.png';
 
 const WeekThree = () => (
     <Layout>
       <Link to="/">Home</Link>
       <h1>Week 3</h1>
       <h3>Individual Accomplishments:</h3>
+      <p>Preliminaries: The following <a href="https://www.youtube.com/watch?v=VU4BSOUdS2I&feature=youtu.be">link</a> will take you to my whiteboarding session on the queue with two stacks. Additionally, the graph below shows my contributions to the project.</p>
+      <img src={graph} alt='graph' />
+
       <p>This week marked the halfway point for our project here at Lambda. This of course means that most of the work each of us had been working on for the past few weeks would be coming together. Although all four of us have specialized on various aspects of our website, we would all need to work together in order to allow our website to work seamlessly together. Therefore, most of our time this week was spent problem-solving as a team.</p>
       <p>The main issue we had to solve this week was displaying our data from the database onto our website. Since we had been using dummy-data to build out our components, most of our code had to be re-factored to allow for user-specific data to be displayed. Once this conflict had been resolved, we were finally able to test and ensure that all of our components were working together.</p>
       <p>My work this week can be seen in the header, recipes page, and single recipe card page.</p>
